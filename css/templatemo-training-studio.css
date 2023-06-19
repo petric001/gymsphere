@@ -259,7 +259,7 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #f9735b;
+  background-color: #c1ff72;
 }
 
 /* 
@@ -781,7 +781,7 @@ Our Classes
   background-color: #c1ff72;
 }
 #tabs .main-rounded-button a:hover {
-  background-color: #f9735b;
+  background-color: #c1ff72;
 }
 #tabs ul li a img {
   max-width: 100%;
@@ -963,30 +963,6 @@ contact
 
 .contact-form button:hover {
   background-color: #c1ff72;
-}
-
-/* 
----------------------------------------------
-footer
---------------------------------------------- 
-*/
-footer {
-  text-align: center;
-  padding: 30px 0px;
-}
-
-footer p {
-  color: #232d39;
-  font-size: 13px;
-}
-
-footer p a {
-  cursor: pointer;
-  color: #ed563b;
-}
-
-footer p a:hover {
-  color: #ed563b;
 }
 
 /* 
